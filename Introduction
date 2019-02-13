@@ -1,0 +1,12 @@
+Breast Cancer Detection
+MOTIVATION:
+To evaluate movtivational factors for pqarticipation in a breast cancer screening program and concurrently examine beliefs regarding carcinoma of the breast held by those women, we took records and datasets from wisconsin diagnostic dataset.
+OBJECTIVE:
+Breast cancer has been characterised as a heterogeneous disease consisting of many different subtypes. The early diagnosis and prognisiness of a cancer type have become a necessity in cancer research as it can facilitate the subsequent clinical management of patients.
+PROBLEM STATEMENT:
+Detection of breast cancer in women in early stages that help them to sucessfully overcome it.
+REQUIREMENT ANALYSIS:
+PLATFORM USED:machine learning
+DATASET USED :Wisconsin dataset
+LANGUAGE:Python 
+IDE:Anaconda
